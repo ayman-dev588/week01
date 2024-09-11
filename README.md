@@ -7,3 +7,7 @@ Adobe Firefly ai generated images
 Keyframe Animation Syntax:
 - https://css-tricks.com/snippets/css/keyframe-animation-syntax/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
+
+
+![alt text](https://github.com/ayman-dev588/week01/tree/main/images/wireframe.jpg?raw=true)
+
