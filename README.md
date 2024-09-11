@@ -9,5 +9,5 @@ Keyframe Animation Syntax:
 - https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
 
 
-![alt text](https://github.com/ayman-dev588/week01/tree/main/images/wireframe.jpg?raw=true)
+![alt text](https://github.com/ayman-dev588/week01/images/wireframe.jpg?raw=true)
 
